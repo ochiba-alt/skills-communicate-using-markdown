@@ -2,6 +2,10 @@
 ## H2ヘッダー
 あああ
 
+- [x] Upload swagger
+- [x] Update 
+- [ ] Commit
+
 ``` javascript
 var myVar = "Hello, world!";
 ```
